@@ -36,7 +36,7 @@ const Card = () => {
 	        </section>
 
 	        <section class="bg-color-white secondary-info">
-		        <a href="olgalataviacortez@gmail.com">
+		        <a href="mailto: olgalataviacortez@gmail.com">
 			    <div class="container">
 				    <div class="row detail">
 					    <div class="col">
