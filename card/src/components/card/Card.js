@@ -54,14 +54,14 @@ const Card = () => {
 	        </section>
 
 	<section class="bg-color-white secondary-info">
-		<a href="https://www.tech.gov.sg">
+		<a href="https://olgacortez.netlify.app/">
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
 						<img src={Web} alt="Website Icon"/>
 					</div>
 					<div class="col is-8">
-						<p class="text-detail">www.olgacortez.com</p>
+						<p class="text-detail">https://olgacortez.netlify.app</p>
 					</div>
 					<div class="col">
 						<img src={Arrow} alt="Right Arrow" height="50%" width="40%" />
